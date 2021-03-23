@@ -1,0 +1,30 @@
+img {
+    border-radius: 50%;
+    max-width: 40%;
+  }
+.card{
+  border-bottom: 1em;
+  border-color: darkgrey;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5em;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+  margin: auto;
+}
+
+.center-align{
+  text-align: center;
+}
+.profilePicture{
+  border-radius: 50%;
+}
+
+.content{
+  width: 60%;
+  margin: auto;
+  padding-top: 2em;
+  font-family: 'Raleway', sans-serif;
+  padding-bottom: 2em;
+  border-bottom: 2px solid #f1f1f1;
+  width: 30%;
+}
